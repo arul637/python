@@ -1,0 +1,5 @@
+this is the sample file
+this file is created to check the word count
+there is no any purpose for creating this file,
+this file consist more than 30 words
+these 30 words are meaningless
