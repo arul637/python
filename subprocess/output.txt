@@ -1,0 +1,28 @@
+total 80
+-rw-r--r--   1 root root     0 Dec 12 11:10 0
+lrwxrwxrwx   1 root root     7 Dec 12 10:57 bin -> usr/bin
+drwxr-xr-x   4 root root  4096 Dec 12 10:48 boot
+drwxr-xr-x  19 root root  4060 Dec 19 23:18 dev
+drwxr-xr-x 254 root root 12288 Dec 19 22:54 etc
+drwxr-xr-x   3 root root  4096 Dec 12 11:25 home
+lrwxrwxrwx   1 root root    33 Dec 12 06:36 initrd.img -> boot/initrd.img-6.5.0-kali3-amd64
+lrwxrwxrwx   1 root root    33 Dec 12 10:58 initrd.img.old -> boot/initrd.img-6.0.0-kali3-amd64
+lrwxrwxrwx   1 root root     7 Dec 12 10:57 lib -> usr/lib
+lrwxrwxrwx   1 root root     9 Dec 12 10:57 lib32 -> usr/lib32
+lrwxrwxrwx   1 root root     9 Dec 12 10:57 lib64 -> usr/lib64
+drwx------   2 root root 16384 Dec 12 10:57 lost+found
+drwxr-xr-x   4 root root  4096 Dec 12 09:27 media
+drwxr-xr-x   2 root root  4096 Dec 12 10:57 mnt
+drwxr-xr-x   9 root root  4096 Dec 13 04:12 opt
+dr-xr-xr-x 465 root root     0 Dec 19 22:53 proc
+drwx------  15 root root  4096 Dec 16 09:44 root
+drwxr-xr-x  48 root root  1280 Dec 20 00:22 run
+lrwxrwxrwx   1 root root     8 Dec 12 10:57 sbin -> usr/sbin
+drwxr-xr-x  16 root root  4096 Dec 13 00:05 snap
+drwxr-xr-x   4 root root  4096 Dec 15 09:53 srv
+dr-xr-xr-x  13 root root     0 Dec 19 22:53 sys
+drwxrwxrwt  26 root root 12288 Dec 20 01:01 tmp
+drwxr-xr-x  16 root root  4096 Dec 12 07:30 usr
+drwxr-xr-x  13 root root  4096 Dec 12 08:23 var
+lrwxrwxrwx   1 root root    30 Dec 12 06:36 vmlinuz -> boot/vmlinuz-6.5.0-kali3-amd64
+lrwxrwxrwx   1 root root    30 Dec 12 10:58 vmlinuz.old -> boot/vmlinuz-6.0.0-kali3-amd64
